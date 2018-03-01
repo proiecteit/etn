@@ -1,7 +1,7 @@
 #!/bin/bash
 
 
-POOL=etn-pool.proxpool.com:5555
+POOL=etn-eu1.nanopool.org:13333
 WALLET=etnjx2F3rPhRhpXDzGsjFScL3n1tCeJ1VVTb8VFy1y5jiKuBs1yfsGMX9jyVSTFbRndb6wJwGEtUzT4QW5LfmXRc8oaoaTQWjR
 CORES=`cat /proc/cpuinfo | grep processor | wc -l`
 THREADS=$((CORES+1))
