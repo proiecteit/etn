@@ -1,0 +1,15 @@
+
+"pool_list" :
+[
+	{
+		"pool_address" : "etn-eu1.nanopool.org:13333", 
+		"wallet_address" : "etnjx2F3rPhRhpXDzGsjFScL3n1tCeJ1VVTb8VFy1y5jiKuBs1yfsGMX9jyVSTFbRndb6wJwGEtUzT4QW5LfmXRc8oaoaTQWjR.gigel/proiecteit@gmail.com", 
+		"rig_id" : "", 
+		"pool_password" : "x", 
+		"use_nicehash" : false, 
+		"use_tls" : false, 
+		"tls_fingerprint" : "", 
+		"pool_weight" : 1 
+	},
+],
+"currency" : "electroneum",
